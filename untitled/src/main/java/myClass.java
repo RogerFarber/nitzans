@@ -7,6 +7,7 @@ public class myClass {
     }
     public static void main(String[] args) {
         myClass obj = new myClass();
+        //hi
 
         System.out.println(obj.printMe());
     }
